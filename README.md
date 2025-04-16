@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Liedson Costa dos Rei, tenho 21 anos e sou natural de São Paulo. Formado em Análise e Desenvolvimento de Sistemas pela fundação Santo André (FSA), com forte interesse em desenvolvimento front-end e no setor de programação em geral. Durante a formação, desenvolvi habilidades de raciocínio lógico e análise de dados. Participei de projetos acadêmicos e palestras que me proporcionaram experiência prática no desenvolvimento de sistemas. Motivado a aprender, buscando sempre uma oportunidade para aplicar meus conhecimentos.
+Me chamo Liedson Costa dos Reis, tenho 21 anos e sou natural de São Paulo. Formado em Análise e Desenvolvimento de Sistemas pela fundação Santo André (FSA), com forte interesse em desenvolvimento front-end e no setor de programação em geral. Durante a formação, desenvolvi habilidades de raciocínio lógico e análise de dados. Participei de projetos acadêmicos e palestras que me proporcionaram experiência prática no desenvolvimento de sistemas. Motivado a aprender, buscando sempre uma oportunidade para aplicar meus conhecimentos.
 
 <p align="left">
     <a href="https://github.com/LiedsonReis?tab=followers">
